@@ -1,0 +1,11 @@
+.mgs{
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+aside.EmojiPickerReact.epr-main{
+    position: absolute !important;
+    bottom: 45px;
+}
